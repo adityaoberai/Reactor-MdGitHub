@@ -30,3 +30,12 @@ My Portfolio : [Click here](https://adityaoberai.live)
 **Bold Text**  
 *italics*  
 _italics_
+
+`console.log("Hi")`
+
+```
+void Main()
+{
+  Console.Writeline("Hey!");
+}
+```
